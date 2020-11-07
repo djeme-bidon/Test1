@@ -12,7 +12,7 @@ public class Testexception1 {
 			System.out.println(anneeDeNaissance);
 		}
 		catch (Exception e) {
-			System.out.println("Date incorrecte !");
+			System.out.println("Date incorrecte bon dieu!");
 			System.out.println(e.getMessage());
 			e.printStackTrace();
 		}
